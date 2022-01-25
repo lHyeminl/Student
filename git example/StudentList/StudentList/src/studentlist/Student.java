@@ -6,8 +6,8 @@
 package studentlist;
 
 /**
- *
- * @author Ronak
+ * Date: Jan 25, 2022
+ * Author: Ronak
  */
 public class Student {
     
